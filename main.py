@@ -37,3 +37,5 @@ import ollie
 lepinski.dostuff()
 #Ollie was here
 ollie.function()
+import dallas
+dallas.printThings()
