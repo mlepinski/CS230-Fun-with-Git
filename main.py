@@ -1,4 +1,7 @@
 import lepinski
+import doruk
+# Doruk was here
+doruk.function()
 import logan
 
 #Dr. Matt was here
