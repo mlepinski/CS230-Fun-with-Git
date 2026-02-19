@@ -1,0 +1,2 @@
+def logan():
+    print("Logan")
