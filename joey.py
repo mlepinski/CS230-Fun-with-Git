@@ -1,2 +1,0 @@
-print("MindCraft")
-#comment
