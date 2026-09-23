@@ -1,0 +1,5 @@
+word = input("Type Rainbow: ")
+
+if word.lower() == "rainbow":
+	for color in ("red", "orange", "yellow", "green", "blue", "indigo", "violet"):
+		print(color)
